@@ -1,0 +1,18 @@
+h1 {
+	color: black;
+	background-color: blue;
+	background-color:#F05C88;
+	padding: 10px;
+}
+hr{
+	border: 1px solid black;
+}
+footer{
+	text-align: center;
+	background-color: #F05C88;
+	padding: 1px;
+
+}
+.grid-container {
+  display: inline-grid;
+}

@@ -1,0 +1,61 @@
+h1 {
+	color: black;
+	background-color: blue;
+	background-color:#F05C88;
+	padding: 10px;
+}
+
+
+footer{
+	text-align: center;
+	background-color: #F05C88;
+	padding: 1px;
+}
+
+.textual{
+  border-radius: 25px;
+
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 10px;
+  width: 500px;
+  margin-top: 2%;
+  margin-bottom:2%;
+  font-size: 23px;
+
+}
+
+
+.btnn{
+	border-radius: 25px;
+ 
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 10px;
+  width: 100px;
+  cursor: pointer;
+  font-size: 23px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+}
+
+.btnn:hover{
+color: #F05C88;
+ font-weight: bold;
+}
+
+button{
+	padding: 15px;
+	border-radius:25px;
+	cursor: pointer;;
+}
+
+button:hover{
+	background-color: #F05C88;
+}
+
+.song{
+	
+	font-size:30px;
+}
